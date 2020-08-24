@@ -31,18 +31,19 @@ __Choose one of three player characters:__
     * Slow attacks.
     * Battery-powered: *Jet-Boots* and melee combo's use battery life that can only be replenished by collecting health crystals while at full health or from collecting batteries from defeated robot enemies or using portals.
    
-   * Mrs.Marlene - An escape artist with a backpack loaded with gadgets for every occasion; from converting herself into an indestructible rolling ball, to phase-shifting (Dashing), punching a hole through-space time with her trusty singularity gun, to landing on enemies to smash them out of existence!
+   * **Mrs.Marlene** - An escape artist with a backpack loaded with gadgets for every occasion; from converting herself into an indestructible rolling *Elastic Ball*, to *Phase-Dashing* through them, to punching a hole through-space time with her trusty *Singularity Gun*, to landing on enemies to smash them out of existence!
    
     * **Pros:**
-      * Evade enemies by becoming one, phasing through them or just turn into a ball and just keep rolling.
-      * Reach unattainable destinations by  opening portals with the singularity gun.
+      * Evade enemies by becoming one, *Phase-Dashing* through them or just turn into an *Elastic Ball* and just keep rolling.
+      * Reach unattainable destinations by  opening *Portals* with the *Singularity Gun*.
       * Throw *Paradox Balls* to freeze time for a short duration. After that duration, an after image will do everything Mrs.Marlene did will time freezes for that same duration, so player-tracking enemies will prioritize the after-image.
       * Average movement and air-control without sacrificing much.
+      * Land on (most) enemies to damage them.
       
     * **Cons:**
       * Low friction: She slides more on surfaces when changing directions and has a hard time with coneyors.
       * Can't get batteries filled by health overflow or by using portals.
-      * Battery-powered: Portals and *Paradox Balls* use battery life that can only be replenished by collecting batteries from defeated robot enemies.
+      * Battery-powered: *Portals* and *Paradox Balls* use battery life that can only be replenished by collecting batteries from defeated robot enemies.
    
 __Play anywhere!__
 
